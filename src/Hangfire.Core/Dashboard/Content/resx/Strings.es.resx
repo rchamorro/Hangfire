@@ -224,7 +224,7 @@
     <value>Tareas en la cola</value>
   </data>
   <data name="FailedJobsPage_FailedJobsNotExpire_Warning_Html" xml:space="preserve">
-    <value>&lt;strong&gt;Las tareas fallidas no expiran&lt;/strong&gt; para permititrte volver a añadirlas a la cola sin ninguna presión. Puedes añadirlas de nuevo a la cola, eliminarlas manualmente o aplicar el atributo &lt;code&gt;AutomaticRetry(OnAttemptsExceeded = AttemptsExceededAction.Delete)&lt;/code&gt; para eliminarlas automáticamente.</value>
+    <value>&lt;strong&gt;Las tareas fallidas no expiran&lt;/strong&gt; para permitirte volver a añadirlas a la cola sin ninguna presión. Puedes añadirlas de nuevo a la cola, eliminarlas manualmente o aplicar el atributo &lt;code&gt;AutomaticRetry(OnAttemptsExceeded = AttemptsExceededAction.Delete)&lt;/code&gt; para eliminarlas automáticamente.</value>
   </data>
   <data name="FailedJobsPage_NoJobs" xml:space="preserve">
     <value>No hay tareas con errores.</value>
